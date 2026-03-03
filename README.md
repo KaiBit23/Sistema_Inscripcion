@@ -2,7 +2,7 @@
 
 Un sistema web completo y minimalista para gestionar inscripciones escolares, construido con una arquitectura Cliente-Servidor (Frontend/Backend).
 
-## 🛠 Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 ### Frontend
 - **React** (con TypeScript)
@@ -17,7 +17,7 @@ Un sistema web completo y minimalista para gestionar inscripciones escolares, co
 
 ---
 
-## 🚀 Requisitos Previos
+## Requisitos Previos
 
 Asegúrate de tener instalados los siguientes programas en tu computadora:
 - [Node.js](https://nodejs.org/) (Versión 16 o superior)
@@ -25,7 +25,7 @@ Asegúrate de tener instalados los siguientes programas en tu computadora:
 
 ---
 
-## 📦 Instalación
+## Instalación
 
 1. **Clona el repositorio:**
    ```bash
@@ -49,7 +49,7 @@ Asegúrate de tener instalados los siguientes programas en tu computadora:
 
 ---
 
-## 🏃‍♂️ Cómo Ejecutar el Proyecto
+## Cómo Ejecutar el Proyecto
 
 ### Opción 1: Ejecución Automática (Windows)
 Si estás en Windows, simplemente haz doble clic en el archivo **`run.bat`** ubicado en la carpeta principal. Esto abrirá dos ventanas de terminal y levantará ambos servidores automáticamente.
@@ -72,7 +72,7 @@ npm run dev
 
 ---
 
-## 🔑 Cuentas de Acceso
+## Cuentas de Acceso
 
 La base de datos se genera automáticamente al iniciar el servidor por primera vez. Para empezar a usar el sistema y configurarlo, usa la cuenta de administrador predeterminada:
 
